@@ -53,8 +53,8 @@ CREATE TABLE products (
     price DOUBLE NOT NULL,
     description TEXT
 );
-
+```
 3. Open terminal and run:
-cd D:/projects/core-php-crud
-php -S localhost:8000
+   cd D:/projects/core-php-crud
+   php -S localhost:8000
 
