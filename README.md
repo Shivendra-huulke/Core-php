@@ -55,8 +55,8 @@ CREATE TABLE products (
 );
 ```
 3. Open terminal and run:
-   ```bash
-    cd D:/projects/core-php-crud
-    php -S localhost:8000
+```bash
+  cd D:/projects/core-php-crud
+  php -S localhost:8000
 
 
